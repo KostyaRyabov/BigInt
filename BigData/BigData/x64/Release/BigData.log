@@ -1,0 +1,6 @@
+﻿  BigData.cpp
+c:\programming\1\bigdata\bigdata\bigdata.cpp(144): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\programming\1\bigdata\bigdata\bigdata.cpp(144): error C2556: int Chislo::Set(char *): перегруженная функция отличается от "void Chislo::Set(char *)" только возвращаемым типом
+  c:\programming\1\bigdata\bigdata\bigdata.cpp(18): note:  см. объявление "Chislo::Set"
+c:\programming\1\bigdata\bigdata\bigdata.cpp(144): error C2371: Chislo::Set: переопределение; различные базовые типы
+  c:\programming\1\bigdata\bigdata\bigdata.cpp(18): note:  см. объявление "Chislo::Set"
